@@ -1,0 +1,394 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TidyAnt API v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2019-07-10 15:49+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Tidyant <info@tidyant.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-api.php:100
+msgid "No tenancy or key! Please check your credentials"
+msgstr ""
+"No se dispode te tenancy o clave de api! Por favor, revisa las credenciales"
+
+#: admin/class-api.php:129 admin/class-api.php:183 admin/class-api.php:260
+msgid "Something went wrong, please try again"
+msgstr ""
+"Se ha producido un error, por favor inténtelo de nuevo o contacte con el "
+"aministrador"
+
+#: admin/class-api.php:139 admin/class-api.php:193 admin/class-api.php:272
+msgid "Unauthorized! Please check your credentials"
+msgstr "¡Sin autorización! Por favor revisa tus credenciales"
+
+#: admin/class-api.php:142 admin/class-api.php:196 admin/class-api.php:275
+msgid "Forbidden! Please check your allowed ip list"
+msgstr ""
+"¡Acceso denegado! Por favor revisa que tu ip esté en la lista de direcciones "
+"autorizadas"
+
+#: admin/class-api.php:145 admin/class-api.php:199 admin/class-api.php:278
+msgid "Unexpected error. Please contact with the administrator"
+msgstr "Error inesperado. Por favor contacta con el administrador"
+
+#: admin/class-api.php:207
+msgid "Invalid brand id"
+msgstr "Id de marca no válido"
+
+#: admin/class-config.php:52
+msgid "Tidyant API settings"
+msgstr "Configuración API Tidyant"
+
+#: admin/class-config.php:73
+msgid "Tidyant API config"
+msgstr "Configuración de la api"
+
+#: admin/class-config.php:97
+msgid "Main Settings"
+msgstr "Configuración API Tidyant"
+
+#: admin/class-config.php:98
+msgid "Url"
+msgstr "Url"
+
+#: admin/class-config.php:99
+msgid "Tenancy"
+msgstr "Tenancy"
+
+#: admin/class-config.php:100
+msgid "Key"
+msgstr "Clave"
+
+#: admin/class-config.php:101
+msgid "Show go to repair link after save repair"
+msgstr "Mostrar enlace a la reparación después de guardar"
+
+#: admin/class-config.php:116
+msgid ""
+"Do not forget to add the wildcard {tidyant} on the page or post where you "
+"want to show the form"
+msgstr ""
+"No olvides añadir el comodín {tidyant} en la página o entrada en la que "
+"quieres añadir el formulario."
+
+#: admin/class-config.php:117
+msgid ""
+"Put your credentials below. It takes somes seconds to check the credentials, "
+"please be patient"
+msgstr ""
+"Introduce tus credenciales abajo. Comprobar las credenciales lleva unos "
+"segundos, por favor ten paciencia."
+
+#: admin/class-config.php:133
+msgid "Type the url"
+msgstr "Introduce la dirección web (url)"
+
+#: admin/class-config.php:146 admin/class-config.php:159
+msgid "Type your tenancy"
+msgstr "Introduce el tenancy"
+
+#: admin/class-config.php:204
+msgid "Tenancy is a required field"
+msgstr "El tenancy es un campo obligatorio"
+
+#: admin/class-config.php:216
+msgid "Key is a required field"
+msgstr "La clave es un campo obligatorio"
+
+#: admin/class-config.php:228
+msgid "Url is a required field"
+msgstr "La url es un campo obligatorio"
+
+#: admin/class-config.php:238
+msgid ""
+"The credentials are wrong, please check that you have the correct credentials"
+msgstr ""
+"Las credenciales no son las correctas, por favor vuelve a introducirlas."
+
+#: admin/class-repair-form.php:59
+msgid "Could not load repair form. Please contact with the administrator "
+msgstr ""
+"No se ha podido cargar el formulario de reparación. Por favor contacta con "
+"el administrador"
+
+#: admin/util/class-public-js-loader.php:65
+msgid "Mandatory field"
+msgstr "Campo obligatorio"
+
+#: admin/util/class-public-js-loader.php:66
+msgid "The email address is not valid"
+msgstr "La dirección de correo electrónica no es válida"
+
+#: admin/util/class-public-js-loader.php:67
+msgid "The phone is not valid. It must begin with + and contain only digits"
+msgstr ""
+"El formato del teléfono no es válido. Debe empezar por + y contener solo "
+"dígitos"
+
+#: admin/util/class-public-js-loader.php:68
+msgid "Please select a brand"
+msgstr "Por favor selecciona una marca"
+
+#: admin/util/class-public-js-loader.php:69
+msgid "Please select or create a model"
+msgstr "Por favor selecciona o crea un modelo"
+
+#: admin/util/class-public-js-loader.php:70
+msgid "New"
+msgstr "Nuevo"
+
+#: admin/util/class-public-js-loader.php:71
+msgid "Input too short"
+msgstr "Debe escribir más caracteres"
+
+#: admin/util/class-public-js-loader.php:72
+msgid "No results"
+msgstr "No se han encontrado resultados"
+
+#: admin/util/class-public-js-loader.php:73
+msgid "Searching"
+msgstr "Buscando..."
+
+#: admin/util/class-public-js-loader.php:74
+msgid "Loading more"
+msgstr "Cargando más..."
+
+#: admin/util/class-public-js-loader.php:75
+msgid "Loading brands"
+msgstr "Cargando marcas..."
+
+#: admin/util/class-public-js-loader.php:76
+msgid "Wait a second, we are loading the models"
+msgstr "Espere un segundo mientras se cargan los modelos..."
+
+#: views/config-banner.php:8
+msgid "TidyAnt API"
+msgstr "TidyAnt API"
+
+#: views/config-banner.php:12
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: views/config-banner.php:15
+msgid ""
+"You have to create an api key in your TidyAnt application, for creating an "
+"new key you have to go to company menu"
+msgstr ""
+"Tienes que crear una clave para la api en tu aplicación TidyAnt, para crear "
+"una nueva clave hay que hacerlo desde el menú de compañía."
+
+#: views/config-banner.php:18
+msgid ""
+"You have to configure the credentials (tenancy and api key) in plugin "
+"settings, you can go to the settings page with the configure plugin button "
+"or going to the menu Settings -> TidyAnt API"
+msgstr ""
+"Hay que configurar las credenciales (tenancy y clave) en la configuración "
+"del plugin, puedes ir a la página de configuración del plugin a través del "
+"botón o desde el menú Ajustes -> TidyAnt API"
+
+#: views/config-banner.php:22
+msgid ""
+"To activate the repair form you have to add the wildcard <b>{tidyant}</b> in "
+"any page or post. The plugin will replace the wildcard for a form"
+msgstr ""
+"Para activar el formulario de reparación tienes que añadir el comodín "
+"<b>{tidyant}</b> en una página o entrada. El plugin sustituirá el comodín "
+"por el formulario de reparación"
+
+#: views/config-banner.php:27
+msgid ""
+"When the plugin is configured this banner will disappear, if you see this "
+"banner it means that the plugin is not properly configured"
+msgstr ""
+"Cuando el plugin esté correctamente configurado estas instrucciones "
+"desaparecerán. Si en algún momento vuelves a ver estas instrucciones es que "
+"el plugin no está correctamente configurado. Esto podría pasar, por ejemplo, "
+"si cambias o eliminas la clave de la api en la aplicación de TidyAnt y no "
+"actualizas las nuevas credenciales en el plugin"
+
+#: views/config-banner.php:31
+msgid ""
+"Notice: the banner will disappear although you do not write the willdcard, "
+"plugin only checks if the credentials are properly set"
+msgstr ""
+"Nota: estas instrucciones desaparecerán aunque no introduzcas el comodín en "
+"una página o entrada, el plugin solo comprueba que las credenciales estén "
+"correctas"
+
+#: views/config-banner.php:38
+msgid "Configure plugin"
+msgstr "Configurar plugin"
+
+#: views/repair-form.php:5
+msgid "Repair saved!"
+msgstr "¡Recogida solicitada correctamente!"
+
+#: views/repair-form.php:9
+msgid "Go to repair page"
+msgstr "Ir a la reparación"
+
+#: views/repair-form.php:32
+msgid "Brand"
+msgstr "Marca"
+
+#: views/repair-form.php:42
+msgid "Model"
+msgstr "Modelo"
+
+#: views/repair-form.php:51
+msgid "Picture"
+msgstr "Foto"
+
+#: views/repair-form.php:59
+msgid "Name"
+msgstr "Nombre"
+
+#: views/repair-form.php:67
+msgid "Identifier"
+msgstr "CIF/NIF/NIE"
+
+#: views/repair-form.php:75
+msgid "Business name"
+msgstr "Nombre comercial"
+
+#: views/repair-form.php:83
+msgid "Address"
+msgstr "Dirección"
+
+#: views/repair-form.php:91
+msgid "City"
+msgstr "Ciudad"
+
+#: views/repair-form.php:99
+msgid "State"
+msgstr "Provincia"
+
+#: views/repair-form.php:107
+msgid "Country"
+msgstr "País"
+
+#: views/repair-form.php:115
+msgid "Postcode"
+msgstr "Código postal"
+
+#: views/repair-form.php:123
+msgid "Phone"
+msgstr "Teléfono"
+
+#: views/repair-form.php:131
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: views/repair-form.php:139
+msgid "Web"
+msgstr "Web"
+
+#: views/repair-form.php:147
+msgid "Contact"
+msgstr "Contacto"
+
+#: views/repair-form.php:155
+msgid "Observations"
+msgstr "Observaciones"
+
+#: views/repair-form.php:164
+msgid "Save repair"
+msgstr "Solicitar recogida"
+
+#~ msgid "Something went wrong, please check the api url"
+#~ msgstr "Hubo un problema, por favor revisa la url de la api"
+
+#~ msgid "The api url is not set"
+#~ msgstr "La url de la api no está configurada"
+
+#~ msgid "No token! Please check your credentials"
+#~ msgstr "¡Sin token! Por favor comprueba tus credenciales"
+
+#~ msgid "Password"
+#~ msgstr "Contraseña"
+
+#~ msgid "Your ip address is"
+#~ msgstr "Tu dirección ip es"
+
+#~ msgid "do not forget add it into your TidyAnt api user"
+#~ msgstr ""
+#~ "no olvides añadirla en la lista de direcciones de tu usario API de TidyAnt"
+
+#~ msgid "Type your email"
+#~ msgstr "Escribe tu email"
+
+#~ msgid "Type your password"
+#~ msgstr "Escribe tu contraseña"
+
+#~ msgid "Incorrect email address"
+#~ msgstr "La dirección de email no es válida"
+
+#~ msgid "Email is a required field"
+#~ msgstr "El email es un campo obligatorio"
+
+#~ msgid "Password is a required field"
+#~ msgstr "La contraseña es un campo obligatorio"
+
+#~ msgid ""
+#~ "You have to create an api user in your TidyAnt application and add this "
+#~ "ip as an allowed ip"
+#~ msgstr ""
+#~ "El primer paso consiste en crear un usuario con rol api en tu aplicación "
+#~ "TidyAnt y añadir a la lista de IPs permitidas esta dirección"
+
+#~ msgid ""
+#~ "You have to configure the credentials in plugin settings, you can go to "
+#~ "the settings page with the configure plugin button or going to the menu "
+#~ "Settings -> TidyAnt API"
+#~ msgstr ""
+#~ "Luego hay que añadir tus credenciales en la configuración del plugin, "
+#~ "puedes acceder a la configuración a través del botón inferior o desde el "
+#~ "menú Ajustes -> TidyAnt API"
+
+#~ msgid "Error loading results"
+#~ msgstr "No se han podido cargar los resultados"
+
+#~ msgid "Put your credentials below"
+#~ msgstr "Introduce tus credenciales"
+
+#~ msgid "Could not load repair form because: "
+#~ msgstr "No se puede cargar el formulario de reparación por:"
+
+#~ msgid "Could not load repair form..."
+#~ msgstr "No se pudo cargar la reparación por:"
+
+#~ msgid "Something went wrong, please check the api url: "
+#~ msgstr "Algo fue mal, por favor comprueba la url de la api"
+
+#~ msgid "Something went wrong: "
+#~ msgstr "Huvo un problema con:"
+
+#~ msgid "Unauthorized"
+#~ msgstr "Sin permiso"
+
+#~ msgid "Forbidden"
+#~ msgstr "Acceso prohibido"
+
+#~ msgid "No token"
+#~ msgstr "Falta el token"
+
+#~ msgid "This is the message itself"
+#~ msgstr "Esto es un mensaje"

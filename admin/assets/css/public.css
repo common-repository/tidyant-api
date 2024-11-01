@@ -1,0 +1,112 @@
+#tidyant_save_repair_form label {
+    margin-bottom: 2px;
+    font-weight: normal;
+}
+
+#tidyant_save_repair_form input, #tidyant_save_repair_form textarea {
+    height: 39px;
+    width: 100%;
+}
+
+#tidyant_save_repair_form textarea {
+    min-height: 150px;
+}
+
+#tidyant_save_repair {
+    max-width: 250px;
+}
+
+label.error {
+    color: red;
+    padding-top: 0px;
+    font-weight: normal;
+    display: inherit;
+}
+
+.tidyant-button-container {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#tidyant_save_repair_form .tidyant-button {
+    font-weight: normal;
+    background-color: #fff;
+    border: 1px solid grey;
+    color: black;
+    height: 45px;
+}
+
+#tidyant_save_repair_form .tidyant-button:hover {
+    background-color: grey;
+    color: white;
+}
+.tidyant-error {
+    color: red;
+    font-weight: normal;
+    border: 1px solid red;
+    padding: 20px;
+}
+
+.select2-choices {
+    min-height: 150px;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.select2-selection__rendered {
+    line-height: 35px !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 39px !important;
+}
+
+.select2-selection__arrow {
+    height: 38px !important;
+}
+
+.tidyant-container {
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.tidyant-container * {
+    box-sizing: border-box;
+}
+
+.tidyant-container label {
+
+}
+
+.tidyant-row {
+    padding-top: 15px;
+}
+
+/* Clear floats after the columns */
+.tidyant-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.tidyant-col-35 {
+    float: left;
+    width: 35%;
+}
+
+.tidyant-col-65 {
+    float: left;
+    width: 65%;
+}
+
+.tidyant-mandatory {
+    display: none;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .tidyant-col-35, .tidyant-col-65, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}

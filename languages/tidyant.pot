@@ -1,0 +1,385 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"TidyAnt API v1.0.0\n"
+"POT-Creation-Date: "
+"2019-07-10 15:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Tidyant "
+"<info@tidyant.com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"1.8.7.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/class-api.php:100
+msgid ""
+"No tenancy or key! "
+"Please check your "
+"credentials"
+msgstr ""
+
+#: admin/class-api.php:129
+#: admin/class-api.php:183
+#: admin/class-api.php:260
+msgid ""
+"Something went wrong, "
+"please try again"
+msgstr ""
+
+#: admin/class-api.php:139
+#: admin/class-api.php:193
+#: admin/class-api.php:272
+msgid ""
+"Unauthorized! Please "
+"check your credentials"
+msgstr ""
+
+#: admin/class-api.php:142
+#: admin/class-api.php:196
+#: admin/class-api.php:275
+msgid ""
+"Forbidden! Please check "
+"your allowed ip list"
+msgstr ""
+
+#: admin/class-api.php:145
+#: admin/class-api.php:199
+#: admin/class-api.php:278
+msgid ""
+"Unexpected error. "
+"Please contact with the "
+"administrator"
+msgstr ""
+
+#: admin/class-api.php:207
+msgid "Invalid brand id"
+msgstr ""
+
+#: admin/class-config.php:52
+msgid ""
+"Tidyant API settings"
+msgstr ""
+
+#: admin/class-config.php:73
+msgid "Tidyant API config"
+msgstr ""
+
+#: admin/class-config.php:97
+msgid "Main Settings"
+msgstr ""
+
+#: admin/class-config.php:98
+msgid "Url"
+msgstr ""
+
+#: admin/class-config.php:99
+msgid "Tenancy"
+msgstr ""
+
+#: admin/class-config.php:100
+msgid "Key"
+msgstr ""
+
+#: admin/class-config.php:101
+msgid ""
+"Show go to repair link "
+"after save repair"
+msgstr ""
+
+#: admin/class-config.php:116
+msgid ""
+"Do not forget to add "
+"the wildcard {tidyant} "
+"on the page or post "
+"where you want to show "
+"the form"
+msgstr ""
+
+#: admin/class-config.php:117
+msgid ""
+"Put your credentials "
+"below. It takes somes "
+"seconds to check the "
+"credentials, please be "
+"patient"
+msgstr ""
+
+#: admin/class-config.php:133
+msgid "Type the url"
+msgstr ""
+
+#: admin/class-config.php:146
+#: admin/class-config.php:159
+msgid "Type your tenancy"
+msgstr ""
+
+#: admin/class-config.php:204
+msgid ""
+"Tenancy is a required "
+"field"
+msgstr ""
+
+#: admin/class-config.php:216
+msgid ""
+"Key is a required field"
+msgstr ""
+
+#: admin/class-config.php:228
+msgid ""
+"Url is a required field"
+msgstr ""
+
+#: admin/class-config.php:238
+msgid ""
+"The credentials are "
+"wrong, please check "
+"that you have the "
+"correct credentials"
+msgstr ""
+
+#: admin/class-repair-form.php:59
+msgid ""
+"Could not load repair "
+"form. Please contact "
+"with the administrator "
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:65
+msgid "Mandatory field"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:66
+msgid ""
+"The email address is "
+"not valid"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:67
+msgid ""
+"The phone is not valid. "
+"It must begin with + "
+"and contain only digits"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:68
+msgid ""
+"Please select a brand"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:69
+msgid ""
+"Please select or create "
+"a model"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:70
+msgid "New"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:71
+msgid "Input too short"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:72
+msgid "No results"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:73
+msgid "Searching"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:74
+msgid "Loading more"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:75
+msgid "Loading brands"
+msgstr ""
+
+#: admin/util/class-public-js-loader.php:76
+msgid ""
+"Wait a second, we are "
+"loading the models"
+msgstr ""
+
+#: views/config-banner.php:8
+msgid "TidyAnt API"
+msgstr ""
+
+#: views/config-banner.php:12
+msgid "Instructions"
+msgstr ""
+
+#: views/config-banner.php:15
+msgid ""
+"You have to create an "
+"api key in your TidyAnt "
+"application, for "
+"creating an new key you "
+"have to go to company "
+"menu"
+msgstr ""
+
+#: views/config-banner.php:18
+msgid ""
+"You have to configure "
+"the credentials "
+"(tenancy and api key) "
+"in plugin settings, you "
+"can go to the settings "
+"page with the configure "
+"plugin button or going "
+"to the menu Settings -> "
+"TidyAnt API"
+msgstr ""
+
+#: views/config-banner.php:22
+msgid ""
+"To activate the repair "
+"form you have to add "
+"the wildcard "
+"<b>{tidyant}</b> in any "
+"page or post. The "
+"plugin will replace the "
+"wildcard for a form"
+msgstr ""
+
+#: views/config-banner.php:27
+msgid ""
+"When the plugin is "
+"configured this banner "
+"will disappear, if you "
+"see this banner it "
+"means that the plugin "
+"is not properly "
+"configured"
+msgstr ""
+
+#: views/config-banner.php:31
+msgid ""
+"Notice: the banner will "
+"disappear although you "
+"do not write the "
+"willdcard, plugin only "
+"checks if the "
+"credentials are "
+"properly set"
+msgstr ""
+
+#: views/config-banner.php:38
+msgid "Configure plugin"
+msgstr ""
+
+#: views/repair-form.php:5
+msgid "Repair saved!"
+msgstr ""
+
+#: views/repair-form.php:9
+msgid "Go to repair page"
+msgstr ""
+
+#: views/repair-form.php:32
+msgid "Brand"
+msgstr ""
+
+#: views/repair-form.php:42
+msgid "Model"
+msgstr ""
+
+#: views/repair-form.php:51
+msgid "Picture"
+msgstr ""
+
+#: views/repair-form.php:59
+msgid "Name"
+msgstr ""
+
+#: views/repair-form.php:67
+msgid "Identifier"
+msgstr ""
+
+#: views/repair-form.php:75
+msgid "Business name"
+msgstr ""
+
+#: views/repair-form.php:83
+msgid "Address"
+msgstr ""
+
+#: views/repair-form.php:91
+msgid "City"
+msgstr ""
+
+#: views/repair-form.php:99
+msgid "State"
+msgstr ""
+
+#: views/repair-form.php:107
+msgid "Country"
+msgstr ""
+
+#: views/repair-form.php:115
+msgid "Postcode"
+msgstr ""
+
+#: views/repair-form.php:123
+msgid "Phone"
+msgstr ""
+
+#: views/repair-form.php:131
+msgid "Email"
+msgstr ""
+
+#: views/repair-form.php:139
+msgid "Web"
+msgstr ""
+
+#: views/repair-form.php:147
+msgid "Contact"
+msgstr ""
+
+#: views/repair-form.php:155
+msgid "Observations"
+msgstr ""
+
+#: views/repair-form.php:164
+msgid "Save repair"
+msgstr ""

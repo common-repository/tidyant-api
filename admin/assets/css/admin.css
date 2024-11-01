@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h1.tidyant {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.tidyant-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tidyant-button {
+    padding: 22px 45px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 1;
+    color: #2b5fa9;
+    background: #FFF;
+    border-color: #FFF;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.tidyant-content {
+    margin: 10px 0 50px 0;
+}
+
+.tidyant-container {
+    margin: 10px;
+    padding-bottom: 10px;
+}
